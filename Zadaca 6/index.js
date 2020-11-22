@@ -1,3 +1,4 @@
+/* HOMEWORK 6 */
 people = [
     { fname: 'David', lname: 'Rayy', age: 34 },
     { fname: 'Suzanne', lname: 'Collins', age: 38 },
